@@ -1,3 +1,3 @@
-module gRPC
+module sso
 
 go 1.23
